@@ -1,0 +1,15 @@
+C:\Users\90507\Desktop\Codes C#\trying3\bin\Debug\net7.0\trying3.exe
+C:\Users\90507\Desktop\Codes C#\trying3\bin\Debug\net7.0\trying3.deps.json
+C:\Users\90507\Desktop\Codes C#\trying3\bin\Debug\net7.0\trying3.runtimeconfig.json
+C:\Users\90507\Desktop\Codes C#\trying3\bin\Debug\net7.0\trying3.dll
+C:\Users\90507\Desktop\Codes C#\trying3\bin\Debug\net7.0\trying3.pdb
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.AssemblyInfoInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.AssemblyInfo.cs
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.dll
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\refint\trying3.dll
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.pdb
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\trying3.genruntimeconfig.cache
+C:\Users\90507\Desktop\Codes C#\trying3\obj\Debug\net7.0\ref\trying3.dll
